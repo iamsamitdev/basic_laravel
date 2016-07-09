@@ -1,0 +1,33 @@
+.navbar
+{
+	margin-bottom: 0px;
+}
+
+.glyphicon
+{
+	font-size: 50px;
+	margin-bottom: 30px;
+}
+
+footer{
+	background-color: #424141;
+	color:#fff;
+	padding: 20px 0px;
+}
+
+.alert
+{
+	padding:0px;
+	border:none;
+}
+
+.alert-success
+{
+	padding: 20px;
+}
+
+.error
+{
+	font-size: 12px;
+	color: #EF0000;
+}
